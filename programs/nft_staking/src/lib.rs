@@ -4,6 +4,7 @@ declare_id!("3moWTBUxJaV1CV9EQ4G62Ms8ppmcP41o1wuUUnaKYg13");
 
 mod state;
 mod instructions;
+mod error;
 
 #[program]
 pub mod nft_staking {
