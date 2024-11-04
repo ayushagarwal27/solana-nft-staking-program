@@ -10,5 +10,5 @@ pub use stake::*;
 pub mod unstake;
 pub use unstake::*;
 
-pub mod claims;
-pub use claims::*;
+pub mod claim;
+pub use claim::*;
