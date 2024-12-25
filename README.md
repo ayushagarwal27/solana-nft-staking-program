@@ -1,5 +1,7 @@
 ### Nft Staking Program
 
+A Solana program for staking an NFT from a specific collection, earning points, and minting rewards.
+
 #### Initialize User Instruction
 
 - Creates user account PDA
